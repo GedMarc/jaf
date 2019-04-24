@@ -24,7 +24,7 @@
 
     <artifactId>javax.activation</artifactId>
     <packaging>jar</packaging>
-    <name>JavaBeans Activation Framework</name>
+    <name>javax.activation</name>
     <profiles>
         <profile>
             <id>jdk8</id>
