@@ -1,4 +1,4 @@
-module java.activation {
+module jakarta.activation {
 	requires static java.datatransfer;
 	requires static java.desktop;
 	requires java.logging;
