@@ -1,3 +1,7 @@
-module java.activation {
-	requires transitive jakarta.activation;
+module jakarta.activation {
+	exports javax.activation;
+	requires java.logging;
+
+	requires static java.desktop;
+
 }
